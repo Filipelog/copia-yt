@@ -90,13 +90,13 @@ body{
 }
 
 header{
-    /* background-color: aquamarine; */
+    background-color: rgb(223, 223, 200);
     grid-area: header;
     height: 150px;
 }
 
 .video{
-    background-color: red;
+    /* background-color: red; */
     grid-area: video;
     height: 100%;
     margin-left: 50px;
@@ -118,18 +118,17 @@ header{
 }
 
  .lateral{
-    background-color: rgb(0, 174, 255);
+    background-color: rgb(230, 230, 192);
     grid-area: lateral;
-    height: 200px;
+    height: 100%;
     margin-right: 50px;
-    padding-bottom: 100%;
 }
 .veja-mais{
     width: 20%;
 }
 
 .desc{
-    background-color: brown;
+    background-color: rgb(230, 230, 192);
     grid-area: desc;
     margin-left: 50px;
     height: 100px;
